@@ -1,4 +1,7 @@
 # GSFRONT-BACK
+RMS:Vinicius Issa Gois Rm 553814
+Vinicius Caetano Rm552904
+Gustavo Manganelli Felex rm554242
 BACKLOG
 🌊 AquaClean - API
 
